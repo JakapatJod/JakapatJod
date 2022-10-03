@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/joddna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/joddna" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/jod_jakapat/?fbclid=iwar0xf9tplsso6y7cb3nnatd0ynbhk93rdnvoidujvm5r6bzjya_4pkwitqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jod_jakapat/?fbclid=iwar0xf9tplsso6y7cb3nnatd0ynbhk93rdnvoidujvm5r6bzjya_4pkwitqi" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/jod_jakapat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jod_jakapat/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uccd6g_toz5z-ugjgroghbyw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uccd6g_toz5z-ugjgroghbyw" height="30" width="40" /></a>
 </p>
 
