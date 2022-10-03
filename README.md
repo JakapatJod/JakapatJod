@@ -1,8 +1,9 @@
 [![MasterHead ](https://i2.wp.com/wallpaperaccess.com/full/2471317.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Jakapat Jodduangchan</h1>
 <h3 align="center">Student of Information and Network Engineering ( INE ) KMUTNB</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/1a/f6/89/1af689d42bdb7686df444f22925f9e89.gif">
 
+<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/1a/f6/89/1af689d42bdb7686df444f22925f9e89.gif">
 
 - 🌱 I’m currently learning **SQL Database and Network**
 
@@ -14,12 +15,11 @@
 
 - ⚡ Fun fact **I think I'm funny and friendly**
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/jakapat jodduangchan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jakapat jodduangchan" height="30" width="40" /></a>
-<a href="https://instagram.com/jod_jakpat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jod_jakpat" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/thisteen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thisteen" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/joddna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/joddna" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/jod_jakapat/?fbclid=iwar0xf9tplsso6y7cb3nnatd0ynbhk93rdnvoidujvm5r6bzjya_4pkwitqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jod_jakapat/?fbclid=iwar0xf9tplsso6y7cb3nnatd0ynbhk93rdnvoidujvm5r6bzjya_4pkwitqi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uccd6g_toz5z-ugjgroghbyw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uccd6g_toz5z-ugjgroghbyw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
